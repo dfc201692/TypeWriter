@@ -1,0 +1,13 @@
+body {
+  background-color: #00a19b;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  height: 100vh; /* Esto asegura que todo el alto de la ventana se utilice */
+  font-size: 30px;
+}
+
+* { color:#fff; text-decoration: none;}
+
